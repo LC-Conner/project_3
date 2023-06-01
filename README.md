@@ -1,11 +1,9 @@
 # project_3
-Group project 3
 By: Emanuel Emahazion
 Tisha Conner
 Yi Pan
 Dane Kutz-Smith
 
-Project ReadMe
 The purpose of this project was to get a basket of stocks from a handful of reputable companies and create portfolios with the optimal make up, depending on risk aversion. The portfolio consisted of the following companies: 
 
 JP Morgan
