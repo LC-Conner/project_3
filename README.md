@@ -30,17 +30,16 @@ The equity data we analyzed was migrated into a postgres database titled Project
 
 From there our python analysis was able to give us a break down of optimized portfolios based on risk aversion. The make up of the portfolio is mentioned above.
 
-
-
-
-
+The dashboards can be seen in this html file here and they contain the following two dashboards:
+https://lc-conner.github.io/project_3/stock.html
 
 First Dashboard
-Dashboards were created with Javascript, to visualize the individual returns of each respective stock:
+ Visualizes the individual returns of each respective stock:
 
 Second Dashboard
 
-A second javascript dashboard was created to show the progress of this optimal portfolio, from its $10,000 inception to its final 10 year date. 
+A second javascript dashboard created to show the progress of this optimal portfolio, from its $10,000 inception to its final 10 year date. 
+
 We saw that the portfolio had its peak during the stock boom of 2022, but still did relatively well into 2023.
 
 In conclusion, adjusting for risk and profit, our optimal portfolio falls with this make up:
